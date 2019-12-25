@@ -1,0 +1,12 @@
+[package]
+name = "libloading-test"
+version = "0.1.0"
+authors = ["Tobias Mansfield-Williams <contact@tmwhere.com>"]
+edition = "2018"
+
+[lib]
+name = "reloadable"
+crate-type = ["cdylib"]
+
+[dependencies]
+libloading = "0.5"
