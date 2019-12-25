@@ -1,1 +1,1 @@
-Backtrace is unknown for dynamic library loaded through dlopen using absolute file path
+Repro for https://github.com/rust-lang/rust/issues/67599
